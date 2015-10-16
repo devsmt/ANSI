@@ -1,3 +1,4 @@
+<?php
 // increments a string(converted to it's numeric representation) and outputs the incremented string
 // StringSequence::increment('asdaW31RG2B3q'); => 'asdaW31RG2B3r'
 class StringSequence {
